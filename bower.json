@@ -17,7 +17,6 @@
   "homepage": "https://github.com/contamobi/ionic-cloud",
   "moduleType": [],
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",

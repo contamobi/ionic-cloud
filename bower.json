@@ -1,7 +1,7 @@
 {
   "name": "@ionic/cloud",
   "description": "Ionic Cloud Client",
-  "main": "dist/es5/index.js",
+  "main": "dist/bundle/ionic.cloud.min.js",
   "authors": [
     "Eric Bobbitt <eric@ionic.io>",
     "William Pelrine <rudy@ionic.io>",

@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/cloud",
+  "name": "cmobi-ionic-cloud",
   "description": "Ionic Cloud Client",
   "main": "dist/bundle/ionic.cloud.min.js",
   "authors": [

@@ -14,9 +14,14 @@
     "cloud",
     "client"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contamobi/ionic-cloud.git"
+  },
   "homepage": "https://github.com/contamobi/ionic-cloud",
   "moduleType": [],
   "ignore": [
+    "**/.*",
     "node_modules",
     "bower_components",
     "test",

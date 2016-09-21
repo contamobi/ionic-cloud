@@ -1,0 +1,26 @@
+{
+  "name": "@ionic/cloud",
+  "description": "Ionic Cloud Client",
+  "main": "dist/es5/index.js",
+  "authors": [
+    "Eric Bobbitt <eric@ionic.io>",
+    "William Pelrine <rudy@ionic.io>",
+    "Dan Imhoff <dan@ionic.io>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "Ionic",
+    "ionic",
+    "cloud",
+    "client"
+  ],
+  "homepage": "https://github.com/contamobi/ionic-cloud",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
